@@ -1,0 +1,11 @@
+br/com/sicredi/simulacao/utils/runner/RunAllClass.class
+br/com/sicredi/simulacao/cenarios/restricoes/RestricoesTest.class
+br/com/sicredi/simulacao/utils/GeradorDeDados.class
+br/com/sicredi/simulacao/cenarios/simulacoes/AlterarSimulacoesTest.class
+br/com/sicredi/simulacao/base/Properties.class
+br/com/sicredi/simulacao/cenarios/simulacoes/CadastrarSimulacoesTest.class
+br/com/sicredi/simulacao/utils/ObjectMapperFactory.class
+br/com/sicredi/simulacao/base/BaseTest.class
+br/com/sicredi/simulacao/cenarios/simulacoes/RemoverSimulacoesTest.class
+br/com/sicredi/simulacao/cenarios/simulacoes/ConsultarSimulacoesTest.class
+br/com/sicredi/simulacao/utils/SimulacaoUtils.class

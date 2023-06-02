@@ -1,0 +1,11 @@
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/cenarios/simulacoes/AlterarSimulacoesTest.java
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/cenarios/simulacoes/CadastrarSimulacoesTest.java
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/cenarios/restricoes/RestricoesTest.java
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/utils/GeradorDeDados.java
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/utils/ObjectMapperFactory.java
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/utils/runner/RunAllClass.java
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/cenarios/simulacoes/RemoverSimulacoesTest.java
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/base/Properties.java
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/utils/SimulacaoUtils.java
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/cenarios/simulacoes/ConsultarSimulacoesTest.java
+/home/andre.scheffer/REST-assured/prova_sicredi_api/src/test/java/br/com/sicredi/simulacao/base/BaseTest.java
